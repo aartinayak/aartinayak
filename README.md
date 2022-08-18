@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! Welcome to my Github! 👋
 
-<!--
-**aartinayak/aartinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are a few things about me you might find interesting.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently pursuing my Master of Science education at RIT with my major in Computer Science.
+- :book: My area of educational interests are: Data Analysis/Visulaization, Machine Learning, backend development.
+- :computer: Skills:
+    - Programming language: Java, Python(Pandas, sklearn, Numpy, Flask, matplotlib, Tkinter), SQL, R, C
+    - Query languages and Databases: MYSQL, Oracle, MongoDB, SimpleDB, H2, PostgreSQL, SQLite, PHPMyAdmin
+    - Tools: Anaconda | Jupyter Notebook | R studio | Microsoft Office Suite | VSCode | WEKA
+    - Personal Skills: Motivated | Team Player | Leadership | Public Speaking | Good Verbal and Written Communication
+    - Languages(Proficient): English | Hindi | Marathi | Konkani
+- :necktie: check me out professionally: www.linkedin.com/in/aartinayak2610
+- 📫 How to reach me: <br />
+      1. Email :love_letter: : aartinayak2610@gmail.com  <br />
+      2. Phone :telephone_receiver: : +12407826272
+- :heart: A few things I care about: Enviornment, Female Education, Climate Change(It's real!)
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: Coffee drinkers :coffee: tend to live longer!
