@@ -14,3 +14,4 @@ Here are a few things about me you might find interesting.
 - 📫 How to reach me: <br />
       1. Email :love_letter: : aartinayak2610@gmail.com  <br />
       2. Phone :telephone_receiver: : +12407826272
+- My pronouns: She/Her/Hers
