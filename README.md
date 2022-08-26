@@ -6,7 +6,7 @@ Here are a few things about me you might find interesting.
 - :book: My area of educational interests are: Data Analysis/Visulaization, Machine Learning, backend development.
 - :computer: Skills:
     - Programming language: Java, Python(Pandas, sklearn, Numpy, Flask, matplotlib, Tkinter), SQL, R(basic)
-    - Query languages and Databases: MYSQL, Oracle, MongoDB, SimpleDB, H2, PostgreSQL, SQLite, PHPMyAdmin
+    - Query languages and Databases: MYSQL, Oracle, MongoDB, SimpleDB, H2, SQLite, PHPMyAdmin
     - Tools: Anaconda | Jupyter Notebook | R studio | Microsoft Office Suite | VSCode | WEKA
     - Personal Skills: Motivated | Team Player | Leadership | Public Speaking | Good Verbal and Written Communication
     - Languages(Proficient): English | Hindi | Marathi | Konkani
@@ -14,6 +14,3 @@ Here are a few things about me you might find interesting.
 - 📫 How to reach me: <br />
       1. Email :love_letter: : aartinayak2610@gmail.com  <br />
       2. Phone :telephone_receiver: : +12407826272
-- :heart: A few things I care about: Enviornment, Female Education, Climate Change(It's real!)
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: Coffee drinkers :coffee: tend to live longer!
