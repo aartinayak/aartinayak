@@ -3,10 +3,10 @@
 Here are a few things about me you might find interesting.
 
 - 🔭 I’m currently pursuing my Master of Science education at RIT with my major in Computer Science.
-- :book: My area of educational interests are: Data Analysis/Visualization, Machine Learning, backend development.
+- :book: My area of educational interests are: Data Analysis/Visualization, Machine Learning, Computer Vision.
 - :computer: Skills:
-    - Programming language: Java, Python(Pandas, sklearn, Numpy, Flask, matplotlib, Tkinter), SQL, R(basic)
-    - Query languages and Databases: MYSQL, Oracle, MongoDB, SimpleDB, H2, SQLite, PHPMyAdmin
+    - Programming language: Java, Python(Pandas, sklearn, Numpy, Flask, matplotlib, Tkinter), MATLAB, SQL, R
+    - Query languages and Databases: MYSQL, Oracle, MongoDB, SimpleDB, H2, PHPMyAdmin
     - Tools: Anaconda | Jupyter Notebook | R studio | Microsoft Office Suite | VSCode | WEKA
     - Personal Skills: Motivated | Team Player | Leadership | Public Speaking | Good Verbal and Written Communication
     - Languages(Proficient): English | Hindi | Marathi | Konkani
