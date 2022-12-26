@@ -1,4 +1,4 @@
-### Hi there! Welcome to my Github! 👋
+### Hi there! Welcome to my Github! 
 
 Here are a few things about me you might find interesting.
 
