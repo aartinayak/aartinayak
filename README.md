@@ -12,7 +12,7 @@ Here are a few things about me you might find interesting.
     - Tools: Anaconda | Jupyter Notebook | R studio | Microsoft Office Suite | VSCode | WEKA
     - Personal Skills: Motivated | Team Player | Leadership | Public Speaking | Good Verbal and Written Communication
     - Languages: English | Hindi | Marathi | Konkani
-- check me out professionally: www.linkedin.com/in/aartinayak2610
+- A bit more about me: www.linkedin.com/in/aartinayak2610
 - How to reach me: <br />
       1. Email : aartinayak2610@gmail.com  <br />
       2. Phone : +12407826272
