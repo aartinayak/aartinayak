@@ -4,7 +4,7 @@ Here are a few things about me you might find interesting.
 
 - I’m currently pursuing my Master of Science education at RIT with my major in Computer Science.
 - My area of educational interests are: Software Development | Data Analysis | Data Visualization | Machine Learning | Computer Vision.
-- :computer: Skills:
+- Skills:
     - Programming language: Java | Python | MATLAB | SQL | R
     - Machine Learning: Pandas | sklearn | Numpy | Matplotlib | Seaborn
     - Frameworks: Flask | Tkinter
