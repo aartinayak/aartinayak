@@ -1,5 +1,7 @@
 ### Hi there! Welcome to my Github! 
 
+I hope you find it useful!
+
 <!-- Here are a few things about me you might find interesting.
 
 - I’m currently pursuing my Master of Science education at RIT with my major in Computer Science.
