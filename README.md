@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my Github! 
 
-Here are a few things about me you might find interesting.
+<!-- Here are a few things about me you might find interesting.
 
 - I’m currently pursuing my Master of Science education at RIT with my major in Computer Science.
 - My area of educational interests are: Software Development | Data Analysis | Data Visualization | Machine Learning | Computer Vision.
@@ -17,3 +17,4 @@ Here are a few things about me you might find interesting.
       1. Email : aartinayak2610@gmail.com  <br />
       2. Phone : +12407826272
 - My pronouns: She/Her/Hers
+ -->
