@@ -1,4 +1,4 @@
-### Hello, I am Aarti, welcome to my Github! 
+### Hello, I am Aarti. Welcome to my Github! 
 
 Thank you for taking some of your precious time out to check out my portfolio! Here is a little something about me, and what I enjoy working on.
 
