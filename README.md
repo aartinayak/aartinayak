@@ -29,20 +29,20 @@ I believe that the will to
 
 
 
-## Other
+<!-- ## Other
 
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=aartinayak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=aartinayak&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aartinayak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=aartinayak&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aartinayak&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-## Practice! Practice! Practice!
+<!-- ## Practice! Practice! Practice!
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/aartin/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/aartin/) -->
 
-##
-![Leetcode Stats](https://leetcard.jacoblin.cool/aartin?ext=activity)
+<!-- ##
+![Leetcode Stats](https://leetcard.jacoblin.cool/aartin?ext=activity) -->
 
 ### 
 ![](https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/58895107_429815094252323_4563318897058512896_n.png?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=PK6nBvp6dKAAX8GYFRV&_nc_ht=scontent-lga3-1.xx&oh=00_AfALkHIBE_OR54O3HlCyaktDKwhzvWBQBuZdB7cTod-4fA&oe=645804F4)
