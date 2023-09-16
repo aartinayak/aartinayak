@@ -1,3 +1,10 @@
-# Hi there! I am Aarti.
+# Hi there! I am Aarti and I....
 
-Thank you for taking some of your precious time out to check out my portfolio! Here is a little something about me, and what I enjoy working on.<br><br>In my opinion, every piece of data holds a story waiting to be narrated, and I take pleasure in utilizing various databases and analytical tools to bring those stories to light. I am focused on interpreting data and using it to support organizations in optimizing their processes, refining their marketing strategies, and increasing their revenue using Data Science, Machine Learning.
+* **am currently pursuing:**  Computer Science at Rochester Institute of Technology.
+* **have:**  always been captivated by the potential of technology to transform our world.
+* **have foundations in:**  Requirement Gathering, Design, Debugging, Databases, DSA, Agile Fundamentals, OOP.
+* **have contributed to:**  projects that merge innovation and impact through various internships, hackathons and academic/personal projects.
+* **am:**  excited to apply my skills and pursue continuous growth in a dynamic and stimulating work environment.
+* **enjoy:**  cooking and exploring various cuisines, researching about home decor and reading a good book.
+* **am looking for:**  Full time roles starting Jan 2024, in the domain of Software Development/ Data Science/ Machine Learning.
+* **am currently learning:** ReactJS, AWS
