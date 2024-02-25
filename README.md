@@ -1,3 +1,6 @@
+
+![2](https://github.com/aartinayak/aartinayak/assets/69034823/c7ee3de3-d4be-4df7-aad7-20ea3eac1780)
+
 # Hi there! I am Aarti🌱 and I....
 
 🏫 **am currently pursuing:**  Computer Science at Rochester Institute of Technology.<br />
