@@ -1,13 +1,25 @@
-I enjoy solving complex problems and developing innovative solutions and tools that make a difference!
+# Hi there! I'm Aarti Nayak.
+### 🔍 Actively seeking full-time opportunities! 
+📍 Location: United States | Available to start immediately
 
-**Actively looking for full-time job opportunities, available to start immediately.**
+## A little about me:
+* I am a Software Engineer specializing in Machine Learning, Artificial Intelligence, and Backend development.
+* I enjoy tackling complex problems and developing innovative solutions that make an impact!
+* I hold 2+ years of experience in:
+  1. Data Engineering: Building and optimizing ETL pipelines for large-scale data processing.
+  2. ML & AI: Developing AI models, NLP systems, and chatbots with scalable deployment.
+  3. Backend Development: Designing and deploying backend systems, APIs, and cloud-based solutions.
 
-Hi there! I’m Aarti, a software engineer with a passion for building impactful technology solutions. I have a strong foundation in computer science and I bring 2+ years of hands-on experience in software development, data engineering, and developing scalable machine learning models.
+## Alma matter:
+* Rochester Institute of Technology: Master of Science - Computer Science (Artificial Intelligence specialization)
+* Mumbai University: Bachelor of Engineering - Information Technology
 
-My expertise lies in a wide range of tech stack:
-* Programming Languages: Python, Java, JavaScript
-* Frameworks & Libraries: Scikit-Learn, PyTorch, TensorFlow, Flask, Django
-* Big Data & Cloud Tools: GCP(BigQuery, Looker), Apache Spark, Airflow, AWS
-* Databases: MySQL, PostgreSQL, MongoDB
+🛠️ Tech Stack
+Programming: Python, Java, JavaScript
+Frameworks & Libraries: Scikit-Learn, PyTorch, TensorFlow, Flask, Django
+Big Data & Cloud: GCP (BigQuery, Looker), AWS, Apache Spark, Airflow
+Databases: MySQL, PostgreSQL, MongoDB
 
-Location: United States
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/aartignayak/) | [Email](mailto:aartinayak.work@gmail.com)  
+
+
